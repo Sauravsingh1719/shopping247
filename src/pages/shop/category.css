@@ -1,0 +1,12 @@
+.category-option img{
+    border: 3px solid rgb(255, 0, 0);
+    box-shadow: 3px 3px 3px 3px #6d6d6d;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.category-option img:hover{
+    scale: 1.1;
+}
+.category-option img:active{
+    scale: 0.8;
+}

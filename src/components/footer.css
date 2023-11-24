@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+.footer {
+    position: absolute;
+    width: 98.5%;
+    background-color: #000;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    color: #fff;
+    overflow: hidden;
+    font-family: 'Playpen Sans', cursive;
+}

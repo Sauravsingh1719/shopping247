@@ -1,0 +1,17 @@
+.progress{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+.progress h1{
+    background-color: red;
+    color: #fff;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #818080;
+}
+.progress p{
+    font-size: 65px;
+}
