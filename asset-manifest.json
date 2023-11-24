@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopping247/static/css/main.3fd64f0f.css",
+    "main.js": "/shopping247/static/js/main.b33ef98b.js",
+    "index.html": "/shopping247/index.html",
+    "main.3fd64f0f.css.map": "/shopping247/static/css/main.3fd64f0f.css.map",
+    "main.b33ef98b.js.map": "/shopping247/static/js/main.b33ef98b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd64f0f.css",
+    "static/js/main.b33ef98b.js"
+  ]
+}
